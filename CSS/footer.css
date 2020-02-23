@@ -7,9 +7,10 @@ article {
 }
 
 footer {
-    display: flex;
-    justify-content: center;
-    padding: 5px;
+
+
+    padding-bottom: 2px;
     background-color: #45a1ff;
     color: #fff;
+    display: block;
 }
